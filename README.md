@@ -12,5 +12,6 @@ What factors preditct hospotal readmissions?
 ## Data Overview
 
 ##### Source
-
+- [Dataset](https://www.kaggle.com/datasets/dubradave/hospital-readmissions?resource=download)
+- Note: This is synthetic/historical data intended for portfolio use and does not contain any Protected Health Information. 
 
